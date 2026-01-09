@@ -1,5 +1,6 @@
 # 💫 About Me:
-Currently pursuing final year of B.E. in Computer Science and Engineering.<br>at KCG College of Technology.<br>Aspiring to build a career in Full Stack Development.
+I'm Dhanush from Chennai. I hold a Bachelor’s degree in Computer Science and Engineering from KCG college of Technology. I’m a Data Engineer with a strong focus on analytics and turning raw data into meaningful insights. I’ve worked hands-on with data ingestion, transformation, and optimization using modern data engineering tools and platforms such as Databricks, Apache Spark, Delta Lake, SQL, and Python, ensuring data quality and performance at scale.
+
 
 
 ## 🌐 Socials:
